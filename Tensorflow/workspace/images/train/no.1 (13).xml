@@ -1,0 +1,38 @@
+<annotation>
+	<folder>salmonella_typhi5</folder>
+	<filename>no.1 (13).jpg</filename>
+	<path>C:\Users\User\Desktop\jupyter\jupyter\TFODCourse\Tensorflow\workspace\images\collectedimages\salmonella_typhi5\no.1 (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>3000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>salmonella_typhi5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>185</ymin>
+			<xmax>1688</xmax>
+			<ymax>2523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>salmonella_typhi5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1697</xmin>
+			<ymin>161</ymin>
+			<xmax>2654</xmax>
+			<ymax>2966</ymax>
+		</bndbox>
+	</object>
+</annotation>

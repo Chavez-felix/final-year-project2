@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Vibrio_cholerae5</folder>
+	<filename>Vibrio_cholerae.1 (48).jpg</filename>
+	<path>C:\Users\User\Desktop\jupyter\jupyter\TFODCourse\Tensorflow\workspace\images\collectedimages\Vibrio_cholerae5\Vibrio_cholerae.1 (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vibrio_cholerae5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>213</ymin>
+			<xmax>907</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vibrio_cholerae5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1954</xmin>
+			<ymin>1999</ymin>
+			<xmax>2150</xmax>
+			<ymax>2766</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vibrio_cholerae5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymin>556</ymin>
+			<xmax>1478</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>

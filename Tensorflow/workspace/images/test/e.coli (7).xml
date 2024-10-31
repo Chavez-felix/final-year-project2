@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e.coli5</folder>
+	<filename>e.coli (7).jpg</filename>
+	<path>C:\Users\User\Desktop\jupyter\jupyter\TFODCourse\Tensorflow\workspace\images\collectedimages\e.coli5\e.coli (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e.coli5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>369</ymin>
+			<xmax>2013</xmax>
+			<ymax>2612</ymax>
+		</bndbox>
+	</object>
+</annotation>

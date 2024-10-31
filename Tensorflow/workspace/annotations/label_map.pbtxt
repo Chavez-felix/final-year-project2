@@ -1,0 +1,12 @@
+item { 
+	name:'salmonella_typhi5'
+	id:1
+}
+item { 
+	name:'Vibrio_cholerae5'
+	id:2
+}
+item { 
+	name:'e.coli5'
+	id:3
+}
